@@ -1,3 +1,3 @@
 # SAE_GRAPHE Gp110
-Membres : Wang Shihong ...
+Membres : Danya, Shihong
 Class codés : GrapheLArcs, GrapheLAdj, GrapheLMAdj
